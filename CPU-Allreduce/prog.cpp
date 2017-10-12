@@ -9,6 +9,7 @@
 
 int main(int argc, char** argv) 
 {
+	std::cout << "Hello" << std::endl;
 	//unsigned long long elem = 2000592040;  // 7.45GB
 	//unsigned long long elem = 1073741824; // 4GB
 	//unsigned long long elem = 536870912; // 2GB
