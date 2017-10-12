@@ -9,11 +9,11 @@
 
 int main(int argc, char** argv) 
 {
-	//unsigned long long elem = 2000592040;  // 7.45GB
+	unsigned long long elem = 2000592040;  // 7.45GB
 	//unsigned long long elem = 1073741824; // 4GB
 	//unsigned long long elem = 536870912; // 2GB
 	//unsigned long long elem = 268435456; // 1GB
-	unsigned long long elem = 131072000; // 500 MB
+	//unsigned long long elem = 131072000; // 500 MB
 	std::vector<float> grad_array(elem, 0.0123456789);
 	
 	// Error code to check return values for CUDA calls
