@@ -1,2 +1,2 @@
 # compare-cuda-aware
-CPU MPI vs. GPU MPI
+Compare CPU MPI and GPU MPI
